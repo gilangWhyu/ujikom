@@ -1,0 +1,57 @@
+<mxfile host="65bd71144e">
+    <diagram id="LmJHoHVceNy2PyPlFh7j" name="Page-1">
+        <mxGraphModel dx="949" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="100" width="30" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="678" y="530" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=-45;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="130" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="shape=actor;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="430" width="40" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="3" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="510" y="420" as="targetPoint"/>
+                        <mxPoint x="332.6776695296637" y="172.67766952966372" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="434" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-55;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="380" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=corner;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="40" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=corner;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="570" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=0;exitY=0;exitDx=20;exitDy=20;exitPerimeter=0;" edge="1" parent="1" source="10" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="shape=corner;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="700" y="50" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="shape=corner;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="710" y="580" width="80" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
